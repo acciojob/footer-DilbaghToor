@@ -19,6 +19,7 @@
     display: inline-flex;
 }
 .media-icons{
+	display:flex;
     padding: 32px 85px;     
 }
 .fa{
@@ -64,10 +65,10 @@
     justify-content: space-between;
     font-size: 22px;
   }
-  .part1{
+  .link-boxes{
     margin-left: 50px;
   }
-  .part4{
+  .link-boxes{
     margin-right: 50px;
   }
   .lower-part{
